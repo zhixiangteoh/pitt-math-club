@@ -1,0 +1,45 @@
+.snoop_dogg {
+  position: relative;
+  width: 100%;
+  height: auto;
+  top: -50vh;
+}
+
+.home-quote {
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 73px;
+  text-align: center;
+  
+  color: #18254B;
+}
+
+.yellow-overlay {
+  background: #C6AC75;
+  mix-blend-mode: screen;
+}
+
+.pitt-shield {
+  width: 8%;
+}
+
+.expand-more {
+  width: 10%;
+}
+
+.icons img {
+  animation: float 2s ease-in-out infinite;
+}
+
+@keyframes float {
+	0% {
+		transform: translatey(0px);
+	}
+	50% {
+		transform: translatey(-20px);
+	}
+	100% {
+		transform: translatey(0px);
+	}
+}

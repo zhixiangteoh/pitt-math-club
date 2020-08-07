@@ -1,0 +1,26 @@
+.math-club-logo {
+  width: 300%;
+  height: 100%;
+  transform: translateX(-25%);
+  filter: blur(10px);
+}
+
+.welcome-to-text {
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 80px;
+  
+  color: white;
+}
+
+.pitt-math-club-text {
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  font-size: 100px;
+  line-height: 150px;
+
+  color: white;
+
+  margin-bottom: 30px;
+}
