@@ -18,7 +18,8 @@
     "semantic-ui-react": "^1.1.1"
   },
   "scripts": {
-    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
