@@ -10,7 +10,7 @@ export const upcoming = {
   },
   2: {
     imgSrc: "pitt_shield.png",
-    title: "Integration: Why our world needs it",
+    title: "Lorem: Ipsum dolor sit amet consectetur",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, eaque aut, molestias eos laudantium nobis illo sint impedit maiores nam minima? Ex eos veniam rem vel velit dolorum ea vero?",
     location: "703 Thackeray Hall",
@@ -21,8 +21,8 @@ export const upcoming = {
 
 export const past = {
   1: {
-    imgSrc: "pittmath_logo.svg",
-    title: "Integration: Why our world needs it",
+    imgSrc: "home_yellow.svg",
+    title: "Lorem: Ipsum dolor sit amet consectetur",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, eaque aut, molestias eos laudantium nobis illo sint impedit maiores nam minima? Ex eos veniam rem vel velit dolorum ea vero?",
     location: "703 Thackeray Hall",
@@ -30,8 +30,8 @@ export const past = {
     link: "/meetings",
   },
   2: {
-    imgSrc: "pitt_shield.png",
-    title: "Integration: Why our world needs it",
+    imgSrc: "snoop_dogg.jpg",
+    title: "Lorem: Ipsum dolor sit amet consectetur",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, eaque aut, molestias eos laudantium nobis illo sint impedit maiores nam minima? Ex eos veniam rem vel velit dolorum ea vero?",
     location: "703 Thackeray Hall",
