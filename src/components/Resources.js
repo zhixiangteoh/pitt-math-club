@@ -1,5 +1,4 @@
 import React from "react";
-import Menu from "./Menu";
 import "./App.css";
 
 const Resources = () => {
@@ -9,7 +8,6 @@ const Resources = () => {
       <h2 style={{ color: "white" }}>
         THIS PAGE IS UNDER DEVELOPMENT. PLEASE COME BACK AGAIN LATER!
       </h2>
-      <Menu />
     </div>
   );
 };

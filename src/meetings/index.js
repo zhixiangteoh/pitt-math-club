@@ -1,7 +1,7 @@
 export const upcoming = {
   1: {
     imgSrc: "pittmath_logo.svg",
-    title: "Integration: Why our world needs it",
+    title: "Math Club: Why you should join",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, eaque aut, molestias eos laudantium nobis illo sint impedit maiores nam minima? Ex eos veniam rem vel velit dolorum ea vero?",
     location: "703 Thackeray Hall",
@@ -10,7 +10,7 @@ export const upcoming = {
   },
   2: {
     imgSrc: "pitt_shield.png",
-    title: "Lorem: Ipsum dolor sit amet consectetur",
+    title: "Pitt: Not 'U Pitt'",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, eaque aut, molestias eos laudantium nobis illo sint impedit maiores nam minima? Ex eos veniam rem vel velit dolorum ea vero?",
     location: "703 Thackeray Hall",
@@ -22,7 +22,7 @@ export const upcoming = {
 export const past = {
   1: {
     imgSrc: "home_yellow.svg",
-    title: "Lorem: Ipsum dolor sit amet consectetur",
+    title: "Math Club favicon: Guess what it represents!",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, eaque aut, molestias eos laudantium nobis illo sint impedit maiores nam minima? Ex eos veniam rem vel velit dolorum ea vero?",
     location: "703 Thackeray Hall",
@@ -31,7 +31,7 @@ export const past = {
   },
   2: {
     imgSrc: "snoop_dogg.jpg",
-    title: "Lorem: Ipsum dolor sit amet consectetur",
+    title: "Snoop Dogg: Guess who the homepage quote is from?",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, eaque aut, molestias eos laudantium nobis illo sint impedit maiores nam minima? Ex eos veniam rem vel velit dolorum ea vero?",
     location: "703 Thackeray Hall",

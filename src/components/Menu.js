@@ -1,4 +1,5 @@
 import React from "react";
+import SideBarMenu from "./SideBarMenu";
 import SideBar from "react-fixed-sidebar";
 import MenuButton from "./MenuButton";
 import "./Menu.css";
@@ -10,20 +11,10 @@ class Menu extends React.Component {
     this.sidebar.toggle();
   };
 
-  onTouch = (event) => {
-    this.sidebar.handleTouch(event);
-  };
-
   render() {
     return (
-      <div onTouchMove={this.onTouch}>
-        <button onClick={this.toggleSideBar}>
-          <img
-            src={require("../static/menu_open.svg")}
-            alt="Menu Open icon"
-            className="menu-open"
-          />
-        </button>
+      <div>
+        <SideBarMenu toggleSideBar={this.toggleSideBar} />
         <SideBar
           ref={(sidebar) => (this.sidebar = sidebar)}
           className="side-bar"

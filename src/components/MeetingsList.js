@@ -7,30 +7,30 @@ const MeetingsList = (props) => {
   const renderList = (list) => {
     return _.map(list, (item) => {
       return (
-        <div className="ui placeholder segment">
+        <div key={item.title} className="ui placeholder segment">
           <div className="ui icon header">
-            <i class="icon">
+            <i className="icon">
               <img src={require(`../static/${item.imgSrc}`)} alt="" />
             </i>
             <h2>{item.title}</h2>
-            <p className="description">
+            <div className="description">
               <div className="ui two column centered grid">
-                <div
+                <p
                   className="twelve wide column"
                   style={{ textAlign: "center" }}
                 >
                   {item.description}
-                </div>
-                <div className="four column centered row">
-                  <div className="column" style={{ textAlign: "center" }}>
+                </p>
+                <div className="two column centered row">
+                  <p className="column" style={{ textAlign: "center" }}>
                     {item.location}
-                  </div>
-                  <div className="column" style={{ textAlign: "center" }}>
+                  </p>
+                  <p className="column" style={{ textAlign: "center" }}>
                     {item.time}
-                  </div>
+                  </p>
                 </div>
               </div>
-            </p>
+            </div>
           </div>
           <Link to={item.link} className="ui secondary button">
             Read More

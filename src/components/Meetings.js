@@ -1,5 +1,4 @@
 import React from "react";
-import Menu from "./Menu";
 import { HashLink as Link } from "react-router-hash-link";
 import { upcoming, past } from "../meetings";
 import MeetingsList from "./MeetingsList";
@@ -9,7 +8,6 @@ import "./MeetingsList.css";
 const Meetings = () => {
   return (
     <div>
-      <Menu />
       <div className="ui container">
         <h1>MEETINGS</h1>
         <p style={{ color: "white" }}>

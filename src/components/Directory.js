@@ -5,8 +5,6 @@ import MenuButton from "./MenuButton";
 
 class Directory extends React.Component {
   onWheel = (event) => {
-    console.log(event);
-
     if (event.deltaY < 0 && window.pageYOffset === 0)
       this.props.history.push("/");
   };
@@ -28,7 +26,7 @@ class Directory extends React.Component {
           </div>
         </div>
         <div className="ui two column centered grid">
-          <div className="six column centered row">
+          <div className="three column centered row">
             <div className="column">
               <MenuButton
                 imgSrc={require("../static/meetings.svg")}
@@ -44,7 +42,7 @@ class Directory extends React.Component {
               />
             </div>
           </div>
-          <div className="six column centered row">
+          <div className="three column centered row">
             <div className="column">
               <MenuButton
                 imgSrc={require("../static/resources.svg")}

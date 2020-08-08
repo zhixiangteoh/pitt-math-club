@@ -1,6 +1,6 @@
 import React from "react";
 import { HashRouter, Route, Switch } from "react-router-dom";
-import history from "../history";
+// import history from "../history";
 
 import Home from "./Home";
 import Directory from "./Directory";
@@ -8,12 +8,14 @@ import Meetings from "./Meetings";
 import Membership from "./Membership";
 import Resources from "./Resources";
 import Courses from "./Courses";
+import Menu from "./Menu";
 
 const App = () => {
   return (
     <div className="app">
-      <HashRouter history={history}>
+      <HashRouter>
         <div>
+          <Menu />
           <Switch>
             <Route path="/" exact component={Home} />
             <Route path="/directory" exact component={Directory} />

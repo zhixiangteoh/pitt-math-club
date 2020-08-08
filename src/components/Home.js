@@ -31,7 +31,7 @@ class Home extends React.Component {
         src={require("../static/snoop_dogg.jpg")}
         className="snoop_dogg"
       /> */}
-        <div className="ui grid">
+        <div className="ui centered grid">
           <div className="row yellow">
             <div className="home-quote">
               "If you stop at general math, you're only going to make general
@@ -44,7 +44,7 @@ class Home extends React.Component {
           <div className="row" />
           <div className="row" />
           <div className="row">
-            <div className="ui center aligned container">
+            <div className="ui container">
               <img
                 ref={this.logoRef}
                 src={require("../static/pittmath_logo.svg")}
