@@ -26,7 +26,14 @@ const Meetings = () => {
           listHeading="UPCOMING TALKS"
           list={upcoming}
         />
+
         <MeetingsList id="past" listHeading="PAST TALKS" list={past} />
+        <div className="buttons">
+          <Link to="/meetings#upcoming" className="ui secondary button">
+            VIEW UPCOMING TALKS
+          </Link>
+        </div>
+        <br />
       </div>
     </div>
   );

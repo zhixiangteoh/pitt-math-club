@@ -46,6 +46,7 @@ const MeetingsList = (props) => {
       <h2 style={{ color: "#C6AC75" }}>{props.listHeading}</h2>
       <hr />
       {renderList(props.list)}
+      <br />
     </div>
   );
 };
