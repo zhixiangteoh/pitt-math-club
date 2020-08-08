@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/pitt-math-club/static/css/main.507521ed.chunk.css",
-    "main.js": "/pitt-math-club/static/js/main.1cc4219d.chunk.js",
-    "main.js.map": "/pitt-math-club/static/js/main.1cc4219d.chunk.js.map",
+    "main.js": "/pitt-math-club/static/js/main.5e5ff6d5.chunk.js",
+    "main.js.map": "/pitt-math-club/static/js/main.5e5ff6d5.chunk.js.map",
     "runtime-main.js": "/pitt-math-club/static/js/runtime-main.59b1d180.js",
     "runtime-main.js.map": "/pitt-math-club/static/js/runtime-main.59b1d180.js.map",
     "static/css/2.296f73ee.chunk.css": "/pitt-math-club/static/css/2.296f73ee.chunk.css",
-    "static/js/2.444cdb1e.chunk.js": "/pitt-math-club/static/js/2.444cdb1e.chunk.js",
-    "static/js/2.444cdb1e.chunk.js.map": "/pitt-math-club/static/js/2.444cdb1e.chunk.js.map",
+    "static/js/2.d2fa7e09.chunk.js": "/pitt-math-club/static/js/2.d2fa7e09.chunk.js",
+    "static/js/2.d2fa7e09.chunk.js.map": "/pitt-math-club/static/js/2.d2fa7e09.chunk.js.map",
     "index.html": "/pitt-math-club/index.html",
-    "precache-manifest.b677e0373463cdbd03ab125cd18525e6.js": "/pitt-math-club/precache-manifest.b677e0373463cdbd03ab125cd18525e6.js",
+    "precache-manifest.d58867a782210e41e62b060993d23adb.js": "/pitt-math-club/precache-manifest.d58867a782210e41e62b060993d23adb.js",
     "service-worker.js": "/pitt-math-club/service-worker.js",
     "static/css/2.296f73ee.chunk.css.map": "/pitt-math-club/static/css/2.296f73ee.chunk.css.map",
     "static/css/main.507521ed.chunk.css.map": "/pitt-math-club/static/css/main.507521ed.chunk.css.map",
-    "static/js/2.444cdb1e.chunk.js.LICENSE.txt": "/pitt-math-club/static/js/2.444cdb1e.chunk.js.LICENSE.txt",
+    "static/js/2.d2fa7e09.chunk.js.LICENSE.txt": "/pitt-math-club/static/js/2.d2fa7e09.chunk.js.LICENSE.txt",
     "static/media/semantic.less": "/pitt-math-club/static/media/outline-icons.ef60a4f6.woff",
     "static/media/courses.svg": "/pitt-math-club/static/media/courses.0280bae6.svg",
     "static/media/expand_more_icon.svg": "/pitt-math-club/static/media/expand_more_icon.9b58e57d.svg",
@@ -30,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.59b1d180.js",
     "static/css/2.296f73ee.chunk.css",
-    "static/js/2.444cdb1e.chunk.js",
+    "static/js/2.d2fa7e09.chunk.js",
     "static/css/main.507521ed.chunk.css",
-    "static/js/main.1cc4219d.chunk.js"
+    "static/js/main.5e5ff6d5.chunk.js"
   ]
 }
