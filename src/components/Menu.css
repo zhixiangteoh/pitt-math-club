@@ -1,0 +1,22 @@
+button {
+  background: #F0F4FF;
+  border-left: 5px solid black;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  color: #18254B;
+  border-radius: 10% 0 0 10%;
+  right: 0;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menu-open {
+  width: 50px;
+}
+
+.side-bar {
+  background: #F0F4FF;
+  border-right: 5px solid black;
+}

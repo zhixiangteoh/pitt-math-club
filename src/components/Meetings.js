@@ -1,19 +1,32 @@
 import React from "react";
+import Menu from "./Menu";
 import { HashLink as Link } from "react-router-hash-link";
-import MenuButton from "./MenuButton";
+import { upcoming, past } from "../meetings";
+import MeetingsList from "./MeetingsList";
+import "./App.css";
+import "./MeetingsList.css";
 
 const Meetings = () => {
   return (
-    <div style={{ fontSize: "60px", color: "white" }}>
-      Meetings
-      <Link to="/directory#directory-menu">Click me</Link>
-      <div className="ui left fixed vertical icon menu">
-        <MenuButton
-          imgSrc={require("../static/meetings.svg")}
-          imgAlt="Meetings button"
-          text="meetings"
-          link="/directory#directory-menu"
+    <div>
+      <Menu />
+      <div className="ui container">
+        <h1>MEETINGS</h1>
+        <p style={{ color: "white" }}>
+          Math Club’s main jam. Come attend weekly talks on interesting topics
+          given by Pitt professors, upperclassmen, and external speakers!
+        </p>
+        <div className="buttons">
+          <Link to="/meetings#past" className="ui secondary button">
+            VIEW PAST TALKS
+          </Link>
+        </div>
+        <MeetingsList
+          id="upcoming"
+          listHeading="UPCOMING TALKS"
+          list={upcoming}
         />
+        <MeetingsList id="past" listHeading="PAST TALKS" list={past} />
       </div>
     </div>
   );

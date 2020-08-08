@@ -32,7 +32,6 @@ class Directory extends React.Component {
             <div className="column">
               <MenuButton
                 imgSrc={require("../static/meetings.svg")}
-                imgAlt="Meeting button"
                 text="meetings"
                 link="/meetings"
               />
@@ -40,7 +39,6 @@ class Directory extends React.Component {
             <div className="column">
               <MenuButton
                 imgSrc={require("../static/membership.svg")}
-                imgAlt="Membership button"
                 text="membership"
                 link="/membership"
               />
@@ -50,7 +48,6 @@ class Directory extends React.Component {
             <div className="column">
               <MenuButton
                 imgSrc={require("../static/resources.svg")}
-                imgAlt="Resources button"
                 text="resources"
                 link="/resources"
               />
@@ -58,7 +55,6 @@ class Directory extends React.Component {
             <div className="column">
               <MenuButton
                 imgSrc={require("../static/courses.svg")}
-                imgAlt="Courses button"
                 text="courses"
                 link="/courses"
               />

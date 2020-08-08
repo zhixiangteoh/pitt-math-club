@@ -1,0 +1,20 @@
+.header {
+  font-family: Montserrat, sans-serif;
+  font-weight: 300;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+
+.icon img {
+  width: 40%;
+}
+
+.description {
+  color: #18254B;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-evenly;
+}
