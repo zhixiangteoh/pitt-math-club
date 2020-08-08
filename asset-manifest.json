@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pitt-math-club/static/css/main.507521ed.chunk.css",
-    "main.js": "/pitt-math-club/static/js/main.ac0ebece.chunk.js",
-    "main.js.map": "/pitt-math-club/static/js/main.ac0ebece.chunk.js.map",
+    "main.js": "/pitt-math-club/static/js/main.1cc4219d.chunk.js",
+    "main.js.map": "/pitt-math-club/static/js/main.1cc4219d.chunk.js.map",
     "runtime-main.js": "/pitt-math-club/static/js/runtime-main.59b1d180.js",
     "runtime-main.js.map": "/pitt-math-club/static/js/runtime-main.59b1d180.js.map",
     "static/css/2.296f73ee.chunk.css": "/pitt-math-club/static/css/2.296f73ee.chunk.css",
     "static/js/2.444cdb1e.chunk.js": "/pitt-math-club/static/js/2.444cdb1e.chunk.js",
     "static/js/2.444cdb1e.chunk.js.map": "/pitt-math-club/static/js/2.444cdb1e.chunk.js.map",
     "index.html": "/pitt-math-club/index.html",
-    "precache-manifest.e55c0420ec4f3838acdff032e4f9d200.js": "/pitt-math-club/precache-manifest.e55c0420ec4f3838acdff032e4f9d200.js",
+    "precache-manifest.b677e0373463cdbd03ab125cd18525e6.js": "/pitt-math-club/precache-manifest.b677e0373463cdbd03ab125cd18525e6.js",
     "service-worker.js": "/pitt-math-club/service-worker.js",
     "static/css/2.296f73ee.chunk.css.map": "/pitt-math-club/static/css/2.296f73ee.chunk.css.map",
     "static/css/main.507521ed.chunk.css.map": "/pitt-math-club/static/css/main.507521ed.chunk.css.map",
@@ -18,6 +18,7 @@
     "static/media/courses.svg": "/pitt-math-club/static/media/courses.0280bae6.svg",
     "static/media/expand_more_icon.svg": "/pitt-math-club/static/media/expand_more_icon.9b58e57d.svg",
     "static/media/home.svg": "/pitt-math-club/static/media/home.638522cb.svg",
+    "static/media/home_yellow.svg": "/pitt-math-club/static/media/home_yellow.4aa505b3.svg",
     "static/media/meetings.svg": "/pitt-math-club/static/media/meetings.a618993c.svg",
     "static/media/membership.svg": "/pitt-math-club/static/media/membership.9966a415.svg",
     "static/media/menu_open.svg": "/pitt-math-club/static/media/menu_open.562b0544.svg",
@@ -31,6 +32,6 @@
     "static/css/2.296f73ee.chunk.css",
     "static/js/2.444cdb1e.chunk.js",
     "static/css/main.507521ed.chunk.css",
-    "static/js/main.ac0ebece.chunk.js"
+    "static/js/main.1cc4219d.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "229fedb7fc552484a9281341aa2a9070",
+    "revision": "acc158f0b9b13d11343d600899f3a551",
     "url": "/pitt-math-club/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pitt-math-club/static/css/2.296f73ee.chunk.css"
   },
   {
-    "revision": "c326fa0496f70665f92b",
+    "revision": "1e715418a8f05b5c7af1",
     "url": "/pitt-math-club/static/css/main.507521ed.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pitt-math-club/static/js/2.444cdb1e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c326fa0496f70665f92b",
-    "url": "/pitt-math-club/static/js/main.ac0ebece.chunk.js"
+    "revision": "1e715418a8f05b5c7af1",
+    "url": "/pitt-math-club/static/js/main.1cc4219d.chunk.js"
   },
   {
     "revision": "ffccda551e9d26b1ef19",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "638522cbe8273952b22788a1b2efd84f",
     "url": "/pitt-math-club/static/media/home.638522cb.svg"
+  },
+  {
+    "revision": "4aa505b363ca346bba1aaf96f9ee2e23",
+    "url": "/pitt-math-club/static/media/home_yellow.4aa505b3.svg"
   },
   {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
