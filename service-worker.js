@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pitt-math-club/precache-manifest.4388d6b36b5384a7c15b2e73c9f7b0bf.js"
+  "/pitt-math-club/precache-manifest.b211eb27f3b616830c2c8255dcabfcda.js"
 );
 
 self.addEventListener('message', (event) => {

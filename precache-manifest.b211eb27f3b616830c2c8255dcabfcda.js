@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "25a103932ddf57a35fbf24043d35da28",
+    "revision": "1d2895e0b94124d67c2df0e7a395cdf5",
     "url": "/pitt-math-club/index.html"
   },
   {
