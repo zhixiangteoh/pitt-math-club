@@ -1,5 +1,7 @@
 ## pitt-math-club
 
+[LIVE](https://teohzhixiang.com/pitt-math-club)
+
 ### Figma markup
 
 ![Math Club figma](https://github.com/zhixiangteoh/zhixiangteoh/blob/master/pittmath_figma.png)
